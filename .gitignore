@@ -1,0 +1,5 @@
+nbproject/
+app/config/config.php
+app/cache
+!app/cache/empty
+.htaccess
